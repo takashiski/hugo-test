@@ -8,9 +8,10 @@ gem environment
 # ls /etc/*-release
 # cat /etc/lsb-release
 # cat /etc/os-release
-gem install asciidoctor
-asciidoctor --version
-gem install asciidoctor --no-user-install
+# gem install asciidoctor
+# asciidoctor --version
+# gem install asciidoctor --no-user-install
+npm install -g asciidoctor
 # echo $PATH
 # sudo apt-get install asciidoctor
 # echo "Show in /opt/buildhome/.rvm/gems/ruby-2.7.1/bin"
