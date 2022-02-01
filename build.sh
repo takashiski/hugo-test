@@ -4,7 +4,8 @@ bundle --version
 # gem install bundler
 # bundle --version
 # gem environment
-gem install -U asciidoctor -v 2.0
+gem update --system
+gem install asciidoctor -v 2.0
 # ls /opt/buildhome/.rvm/gems/ruby-2.7.1/bin/
 # ls /opt/buildhome/.rvm/gems/ruby-2.7.1/
 hugo
